@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "516dbfbc-ded0-47ca-b24f-db308d759d81": {
+      "ProjectGuid": "516dbfbc-ded0-47ca-b24f-db308d759d81",
+      "DisplayName": "LinkedList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
